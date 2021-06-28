@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/societyRules"
+        android:title="Society Rules"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/createExcel"
+        android:title="Export Data to Excel"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/createExcelFilter"
+        android:title="Export Data with Maintenance Filter"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/faqs"
+        android:title="FAQs"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/contactDeveloper"
+        android:title="Contact Developer"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        app:showAsAction="never"/>
+
+</menu>
