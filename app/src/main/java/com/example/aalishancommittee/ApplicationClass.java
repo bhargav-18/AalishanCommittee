@@ -9,8 +9,8 @@ import java.util.List;
 
 public class ApplicationClass extends Application
 {
-    public static final String APPLICATION_ID = "C893C06A-3D61-2D7F-FF3A-9121DB132900";
-    public static final String API_KEY = "256CC407-3944-45B4-AA42-CDC9D995506D";
+    public static final String APPLICATION_ID = "<Application ID>";
+    public static final String API_KEY = "<API Key>";
     public static final String SERVER_URL = "https://api.backendless.com";
 
     public static BackendlessUser user;
