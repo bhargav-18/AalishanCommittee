@@ -9,7 +9,7 @@ Manage all details of whole society and rules of the society.
 
 ![alternatetext](https://github.com/bhargav-18/AalishanCommittee/blob/main/Screenshots/Screenshot%202021-11-26%20204100.jpg)
 
-2. Copy this repository's url or copy this link https://github.com/bhargav-18/NotesTODO.git and paste it in the URL field and click on clone.
+2. Copy this repository's url or copy this link https://github.com/bhargav-18/AalishanCommittee.git and paste it in the URL field and click on clone.
 It will clone this app in your personal pc.
 
 ![alternatetext](https://github.com/bhargav-18/AalishanCommittee/blob/main/Screenshots/Screenshot%202022-08-12%20211633.jpg)
