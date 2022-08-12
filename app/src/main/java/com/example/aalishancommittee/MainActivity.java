@@ -13,6 +13,7 @@ import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Environment;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -288,6 +289,7 @@ public class MainActivity extends AppCompatActivity {
                         fileOutputStream.close();
                     }
                 } catch (Exception e) {
+                    Log.d("TAG_ERROR_SHEET", "onOptionsItemSelected:" + e.getMessage());
                     e.printStackTrace();
                 }
             }

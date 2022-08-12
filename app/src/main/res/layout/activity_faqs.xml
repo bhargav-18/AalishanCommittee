@@ -36,7 +36,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginTop="10dp"
         android:layout_marginRight="20dp"
-        android:text="Follow the registration link sent to your email id after filling registration form to register successfully.\n If still not able to login contact the developer through " />
+        android:text="Follow the registration link sent to your email id after filling registration form to register successfully.\nIf still not able to login contact the developer through " />
 
     <TextView
         android:id="@+id/tvContactDeveloper"
@@ -68,7 +68,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginTop="10dp"
         android:layout_marginRight="20dp"
-        android:text="This privilage is not given to user so if you want to change" />
+        android:text="This privilege is not given to user so if you want to change" />
 
     <TextView
         android:id="@+id/tvContactDeveloper1"
@@ -99,7 +99,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginTop="10dp"
         android:layout_marginRight="20dp"
-        android:text="Send mail to developer with subject delte my account. Your account will be deleted in 72 hours." />
+        android:text="Send mail to developer with subject delete my account. Your account will be deleted in 72 hours." />
 
     <TextView
         android:id="@+id/tvDeleteAccount"

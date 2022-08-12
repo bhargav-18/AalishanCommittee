@@ -14,7 +14,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AalishanCommittee">
-        <activity android:name=".AddRule"></activity>
+        <activity android:name=".AddRule" />
         <activity android:name=".RulesInfo" />
         <activity android:name=".SocietyRules" />
         <activity android:name=".ContactDeveloper" />
@@ -25,7 +25,8 @@
                 android:value=".MainActivity" />
         </activity>
         <activity android:name=".Register" />
-        <activity android:name=".Login">
+        <activity android:name=".Login"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
